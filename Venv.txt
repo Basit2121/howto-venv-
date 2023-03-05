@@ -1,0 +1,11 @@
+Open a terminal or command prompt.
+
+Navigate to your project directory: cd path/to/your/project.
+
+Create a new virtual environment: python -m venv env.
+
+Activate the virtual environment:
+
+On Windows: .\env\Scripts\activate
+On Linux or macOS: source env/bin/activate
+Install the required packages using pip: pip install mega.py.
